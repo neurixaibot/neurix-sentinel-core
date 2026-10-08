@@ -1,10 +1,10 @@
 # NEURIX AI • Sovereign Community Sentinel & Kinetic Raid Engine
 
-[[https://img.shields.io/badge/Network-Solana-9945FF?style=for-the-badge&logo=solana]](https://solana.com)
-[[https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge]](https://opensource.org/licenses/MIT)
-[[https://img.shields.io/badge/Status-Production%20v105.0-00C853?style=for-the-badge]](https://neurixai.in)
-[[https://img.shields.io/badge/Latency-%3C15ms-FFD700?style=for-the-badge]](https://neurixai.in)
-[[https://img.shields.io/badge/AI%20Oracle-Google%20Gemini-4285F4?style=for-the-badge&logo=google]](https://neurixai.in)
+[https://img.shields.io/badge/Network-Solana-9945FF?style=for-the-badge&logo=solana]
+[https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge]
+[https://img.shields.io/badge/Status-Production%20v105.0-00C853?style=for-the-badge]
+[https://img.shields.io/badge/Latency-%3C15ms-FFD700?style=for-the-badge]
+[https://img.shields.io/badge/AI%20Oracle-Google%20Gemini-4285F4?style=for-the-badge&logo=google]
 
 > **Autonomous, sub-15ms threat neutralization, community moderation, and kinetic social amplification engine engineered specifically for high-velocity Solana communities.**
 
