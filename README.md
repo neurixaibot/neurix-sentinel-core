@@ -4,11 +4,13 @@
 
 ### *Autonomous Sub-15ms Threat Neutralization & Kinetic Raid Engine on Solana*
 
-[https://img.shields.io/badge/Network-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white]
-[https://img.shields.io/badge/AI%20Oracle-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white]
-[https://img.shields.io/badge/Status-Production%20v105.0-00C853?style=for-the-badge]
-[https://img.shields.io/badge/Latency-%3C15ms%20Purge-FFD700?style=for-the-badge]
-[https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge]
+<p align="center">
+  <img src="https://img.shields.io/badge/Network-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
+  <img src="https://img.shields.io/badge/AI%20Oracle-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Status-Production%20v105.0-00C853?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Latency-%3C15ms%20Purge-FFD700?style=for-the-badge" alt="Latency" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License" />
+</p>
 
 </div>
 
