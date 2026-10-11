@@ -5,11 +5,11 @@
 ### *Autonomous Sub-15ms Threat Neutralization & Kinetic Raid Engine on Solana*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Network-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
-  <img src="https://img.shields.io/badge/AI%20Oracle-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Status-Production%20v105.0-00C853?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Latency-%3C15ms%20Purge-FFD700?style=for-the-badge" alt="Latency" />
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License" />
+  <a href="https://solana.com"><img src="https://img.shields.io/badge/Network-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" /></a>
+  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/AI%20Oracle-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" /></a>
+  <a href="https://neurixai.in"><img src="https://img.shields.io/badge/Status-Production%20v105.0-00C853?style=for-the-badge" alt="Status" /></a>
+  <a href="https://neurixai.in"><img src="https://img.shields.io/badge/Latency-%3C15ms%20Purge-FFD700?style=for-the-badge" alt="Latency" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License" /></a>
 </p>
 
 </div>
@@ -20,7 +20,7 @@
 
 ## ⚡ Executive Overview
 
-**Neurix AI** (`@neurix_ai_bot`) is an autonomous Web3 defense sentinel operating at machine speed across community communication layers. In an ecosystem where 1 billion mobile devices are entering decentralized finance, manual moderation is mathematically obsolete.
+**Neurix AI** ([@neurix_ai_bot](https://x.com/neurix_ai_bot)) is an autonomous Web3 defense sentinel operating at machine speed across community communication layers. In an ecosystem where 1 billion mobile devices are entering decentralized finance, manual moderation is mathematically obsolete.
 
 A zero-day phishing link or wallet drainer executes within milliseconds. Neurix AI neutralizes malicious payloads in **under 15 milliseconds**, safeguarding community treasuries and user capital 24/7/365.
 
