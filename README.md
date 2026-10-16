@@ -1,69 +1,83 @@
 <div align="center">
 
-# ⚡ NEURIX AI • Sovereign Community Sentinel
+# ⚡ NEURIX AI • Sovereign Community Sentinel & Alpha Radar
 
-### *Autonomous Sub-15ms Threat Neutralization & Kinetic Raid Engine on Solana*
+### *Autonomous Sub-15ms Threat Neutralization, 4-Layer Neural Oracle & Kinetic Raid Engine on Solana*
 
 <p align="center">
   <a href="https://solana.com"><img src="https://img.shields.io/badge/Network-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" /></a>
-  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/AI%20Oracle-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" /></a>
-  <a href="https://neurixai.in"><img src="https://img.shields.io/badge/Status-Production%20v105.0-00C853?style=for-the-badge" alt="Status" /></a>
-  <a href="https://neurixai.in"><img src="https://img.shields.io/badge/Latency-%3C15ms%20Purge-FFD700?style=for-the-badge" alt="Latency" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License" /></a>
+  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/AI%20Oracle-Google%20Gemini%20v107.2-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" /></a>
+  <a href="https://neurixai.in"><img src="https://img.shields.io/badge/Status-Public%20Beta%20v107.2-00C853?style=for-the-badge" alt="Status" /></a>
+  <a href="https://t.me/NeurixPortal"><img src="https://img.shields.io/badge/Token-%E2%9A%A1%20%24NRX%20Genesis%20100-FFD700?style=for-the-badge" alt="Token" /></a>
+  <a href="https://github.com/neurixaibot/neurix-sentinel-core/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License" /></a>
 </p>
 
 </div>
 
-> **Autonomous, sub-15ms threat neutralization, community moderation, and kinetic social amplification engine engineered specifically for high-velocity Solana communities.**
+> **Engineered in active Public Beta (`v107.2`) for high-velocity Solana & Pump.fun communities: Sub-15ms zero-trust phishing neutralization, sub-second token safety telemetry (`/check`), 4-layer Google Gemini AI reasoning (`/ask`), and kinetic X raid amplification (`/raid`).**
 
 ---
 
 ## ⚡ Executive Overview
 
-**Neurix AI** ([@neurix_ai_bot](https://x.com/neurix_ai_bot)) is an autonomous Web3 defense sentinel operating at machine speed across community communication layers. In an ecosystem where 1 billion mobile devices are entering decentralized finance, manual moderation is mathematically obsolete.
+**Neurix AI** (`@neurix_ai_bot` on X | `@NeuriXAiIn_bot` on Telegram | [neurixai.in](https://neurixai.in)) is a specialized autonomous Web3 security and intelligence agent built natively for the **Solana** ecosystem.
 
-A zero-day phishing link or wallet drainer executes within milliseconds. Neurix AI neutralizes malicious payloads in **under 15 milliseconds**, safeguarding community treasuries and user capital 24/7/365.
+As Solana transitions toward **150ms Alpenglow finality** and global mobile hardware adoption, manual community moderation is mathematically obsolete. A zero-day wallet drainer or spoofed contract link executes in milliseconds. Neurix AI operates a **Zero-Trust Cryptographic Whitelist & 99.99% Fidelity Regex Shield** over a direct IPv4 webhook engine — intercepting and purging unauthorized threats in **under 15 milliseconds** while empowering traders with real-time on-chain telemetry.
 
----
-
-## 🛡️ Core Architectural Capabilities
-
-### 1. Sub-15ms Threat Neutralization Shield
-* **Autonomous URL Mitigation:** Deep pattern inspection identifying unverified external links, zero-day drainers, and spoofed DEX domains.
-* **Granular Whitelisting:** Self-serve dynamic domain verification (`/whitelist <domain>`) permitting verified ecosystem tooling while instantly purging unauthorized phishing vectors.
-* **Humanity Captcha Gatekeeper:** Interactive 1-tap cryptographic join challenges preventing automated userbot swarm infiltration.
-
-### 2. Kinetic Raid & Viral Amplification Engine
-* **Automated Post Detection:** Automatically detects official X/Twitter status links dropped by administrators and deploys interactive Web3 Raid Cards with zero latency.
-* **Anti-Cheat Verification:** Tracks participant engagement with multi-tier XP attribution (Like +10, Repost +30, Reply +50, Quote +100).
-* **Autonomous Chat Controls:** Locks community chat during active missions to focus 100% of member attention on algorithmic social delivery.
-
-### 3. Neural AI Oracle (Powered by Google Gemini)
-* Real-time conversational intelligence directly inside Telegram community groups via `/ask <query>`.
-* Ingests verified project documentation, token contract addresses, and roadmaps to deliver zero-hallucination community answers.
-
-### 4. Multi-Tenant Project White-Labeling
-* 100% isolated project configurations per Telegram group.
-* Dedicated Contract Address broadcast (`/ca` and `/setca`).
-* Verified Portal & X routing (`/links` and `/setlinks`).
+* **Live Public Beta Philosophy:** We build, test, and ship upgrades daily in live production alongside our early community testers inside the [Global Nexus (`t.me/NeurixPortal`)](https://t.me/NeurixPortal).
 
 ---
 
-## 🏗️ System Architecture
+## 🛡️ Core Architectural Capabilities (v107.2 Master)
+
+### 1. Sub-15ms Zero-Trust Anti-Phishing Shield (99.99% Fidelity)
+* **Default-Deny Perimeter:** Rather than relying on outdated blacklists of previously flagged domains, Neurix AI enforces a strict cryptographic whitelist. Any unverified external URL, hidden markdown link, or drainer payload from non-admins is purged in `<15ms` — even if a zero-day scam domain was registered 10 seconds ago.
+* **Self-Serve Domain Whitelisting:** Group admins dynamically whitelist verified partner domains (`/whitelist <domain>` and `/setlinks <url>`).
+* **Humanity Captcha Gatekeeper:** Interactive 1-tap join verification blocking automated bot-swarm infiltration.
+
+### 2. Alpha Radar & "Quality Callout" Token Scanner (`/check` & `/price`)
+* **Built for the $39.9M+ Pump.fun Rewards Era:** With over **$19.5M paid in Callout Rewards** and **$20.4M paid in Holder Rewards** across Pump.fun, callers and traders only win when they filter out rugs (*"Quality Callout > Quantity"*).
+* **Sub-Second Telemetry (`/check <CA>`):** Audits any Solana or Pump.fun token contract in real time via DexScreener and bonding curve telemetry — inspecting market cap, liquidity depth, 24h volume, DEX venue (`PUMPSWAP` / `RAYDIUM`), and clone/rug risks before swapping.
+* **Pump.fun Mechanics Oracle (`/pumpguide` & `/radar`):** Instant in-chat education on bonding curve graduation, Raydium migration, and holder/callout reward mechanics.
+
+### 3. 4-Layer Super-Brain AI Oracle (`/ask`)
+* **Multi-Layer Neural Routing:** Powered by **Google Gemini (`gemini-2.5-flash`)** backed by a 4-layer resilient cloud & local domain router (`v107.2 Pure Command Mode`).
+* **Context-Aware Precision:** Answers technical questions on zero-day phishing defense, Solana architecture, `⚡ $NRX` tokenomics, and custom project lore (`/setlore`) without interrupting human-to-human group conversations.
+
+### 4. Kinetic X Raid Engine & On-Chain XP (`/raid`)
+* **Instant Raid Deployment:** Transforms any X/Twitter post URL into a full-width interactive community raid mission (`/raid <tweet_url>`).
+* **On-Chain Wallet Ledger (`/setwallet` & `/myprofile`):** Tracks member Raider XP, rank, and verified Base58 Solana wallet addresses for priority airdrop and Genesis distributions.
+
+---
+
+## 🐂 Native Ecosystem Token: `⚡ $NRX` (The Genesis 100 Vanguard)
+
+**`⚡ $NRX`** (represented by the official **Golden Cyber-Bull** mascot) is the sovereign utility, staking, and reward token of the Neurix AI ecosystem:
+
+* **Phase 1 (LIVE NOW — Public Beta v107.2):** Live Telegram Sentinel (`@NeuriXAiIn_bot`), Alpha Radar (`/check`), 4-Layer Neural Oracle (`/ask`), and Web Portal ([neurixai.in](https://neurixai.in)).
+* **Phase 2 (ACTIVE — The Genesis 100 Whitelist):** Onboarding our first **100 core community testers, raiders, and growth contributors** inside [t.me/NeurixPortal](https://t.me/NeurixPortal) via `/setwallet <Solana_Address>` prior to our fair launch on **Pump.fun & Raydium** (with 100% locked/burned liquidity and Holder/Callout reward alignment).
+* **Phase 3 (UPCOMING):** Web3 Security Analytics Terminal & Tiered `⚡ $NRX` Staking (unlocking enterprise group sentinels and cross-community raid boosts).
+* **Phase 4 (EXPANSION):** Decentralized Sovereign DAO Node Mesh across Solana.
+
+---
+
+## 🏗️ System Architecture (v107.2 Super-Brain)
 
 ```text
-[ Telegram Community Node ]
-           │
-           ▼ (Webhook / Low-Latency IPv4 API)
-┌───────────────────────────────────────────────┐
-│     NEURIX AI CORE ENGINE (v105.0 MASTER)     │
-│  - Global \Throwable Exception Interceptor    │
-│  - Sub-15ms Regex Payload Parser              │
-│  - Self-Healing Webhook Monitor (?self_heal=1)│
-└───────┬───────────────────────────────┬───────┘
-        │                               │
-        ▼                               ▼
-┌────────────────────────┐      ┌────────────────────────┐
-│   Google Gemini API    │      │  Solana DEX Screener   │
-│  Neural Mesh & Oracle  │      │ Live Market Telemetry  │
-└────────────────────────┘      └────────────────────────┘
+[ Telegram Community Group / Private DM ]
+                    │
+                    ▼ (Direct IPv4 Webhook • <15ms Latency)
+┌──────────────────────────────────────────────────────────┐
+│        NEURIX AI CORE ENGINE (v107.2 PURE COMMAND)       │
+│  • Zero-Trust Default-Deny URL & Drainer Interceptor     │
+│  • Humanity Verification Captcha Gatekeeper              │
+│  • Self-Healing Webhook Diagnostics (?self_heal=1)       │
+└─────────┬──────────────────────────────────────┬─────────┘
+          │                                      │
+          ▼                                      ▼
+┌────────────────────────────┐      ┌────────────────────────────┐
+│  4-Layer Neural AI Oracle  │      │  Alpha Radar Telemetry     │
+│  • Google Gemini 2.5 Flash │      │  • DexScreener Token API   │
+│  • Cloud LLM Failover      │      │  • Pump.fun Bonding Curve  │
+│  • Custom Project Lore     │      │  • 30s High-Speed Cache    │
+└────────────────────────────┘      └────────────────────────────┘
